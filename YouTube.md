@@ -1,6 +1,6 @@
 # Design YouTube w/ex-Meta Staff Engineer
 
-Mar 9, 2025
+Mar 9, 2025 43:30
 
 * [00:00 - Intro](https://www.youtube.com/watch?v=IUrQ5_g3XKs)
 *  1:37 - The Approach
