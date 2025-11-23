@@ -1,0 +1,8 @@
+* [API Design (28:40) - Basics](Basics.md)
+* [Caching (30:14) - Basics](Basics.md)
+* [Consistent Hashing (7:14) - Basics](Basics.md)
+* [Data Modeling (30:35) - Basics](Basics.md)
+* [GraphQL - Basics - API Design](Basics.md)
+* [Object Storage (12:37) in Basics](Basics.md)
+* [Recommendation System Infra (9:44) - Basics](Basics.md)
+* [Sharding (30:34) - Basics](Basics.md)
